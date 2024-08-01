@@ -39,4 +39,4 @@ LoE (League of Experts) это приложение созданно для по
 
 ###
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+[ссылка](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
