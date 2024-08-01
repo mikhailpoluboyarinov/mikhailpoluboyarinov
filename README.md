@@ -18,6 +18,9 @@
 LoE (League of Experts) это приложение созданно для погружения в футбольный мир, чтобы мы с друзьями могли соревноваться и выяснять, кто же главный футбольный эксперт из нас. Приложение сделано к ЧМ24. В нем я использовал такие технологии как TS, REACT, AXIOS, для верстки я использовал Material-UI. 
 </p>
 
+[ссылка](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
+
 ###
 
 <h3 align="left">🛠 Технологии:</h3>
@@ -38,5 +41,3 @@ LoE (League of Experts) это приложение созданно для по
 </div>
 
 ###
-
-[ссылка](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
